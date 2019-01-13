@@ -1,0 +1,19 @@
+v0.1 (2019/01/13): Initial release
+
+NoPSN-Downloader is a small XMB Add-on which lists and lets you download NoPSN Apps (made & hosted by @esc0rtd3w)
+from the XMB.
+
+OFW/CFW compatible:
+
+-OFW: it uses the first add-on default slot. Just install the PKG and it should appear on the XMB.
+-CFW: you will need to modify your category_game.xml file and add these lines:
+
+			<Query
+				 class="type:x-xmb/folder-pixmap"
+				 key="han_xmb_addon1"
+				 src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/han_xmb_addon1.xml#han_xmb_addon1_main"
+				 />
+				 
+then you can install the PKG. 
+
+116 download links included ATM (basically, it's this list: http://www.psx-place.com/threads/collection-of-apps-patched-for-nopsn-access-quick-download-list.14565/).
