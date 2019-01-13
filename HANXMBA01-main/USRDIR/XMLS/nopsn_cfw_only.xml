@@ -1,0 +1,1013 @@
+<XMBML version="1.0"> 
+ 
+ <!-- Main > CFW Only items [Last update: 2019/01/13] -->
+ 
+	<View id="nopsn_cfw_only_items">
+		<Attributes>
+			<Table key="item_abc_v101_NPEB02205"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/abc.png</String></Pair> 
+				<Pair key="title"><String>ABC iView</String></Pair> 
+				<Pair key="info"><String>NPEB02205 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_amazon_v406_NPEB00344"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/amazon.png</String></Pair> 
+				<Pair key="title"><String>Amazon Instant Video</String></Pair> 
+				<Pair key="info"><String>NPEB00344 - v4.06 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_amazon_v406_NPJB00773"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/amazon.png</String></Pair> 
+				<Pair key="title"><String>Amazon Instant Video</String></Pair> 
+				<Pair key="info"><String>NPJB00773 - v4.06 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_amazon_v406_NPUP10021"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/amazon.png</String></Pair> 
+				<Pair key="title"><String>Amazon Instant Video</String></Pair> 
+				<Pair key="info"><String>NPUP10021 - v4.06 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_animax_v101_NPEB01355"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/animax.png</String></Pair> 
+				<Pair key="title"><String>Animax</String></Pair> 
+				<Pair key="info"><String>NPEB01355 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_animelab_v100_NPEB02357"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/animelab.png</String></Pair> 
+				<Pair key="title"><String>AnimeLab</String></Pair> 
+				<Pair key="info"><String>NPEB02357 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_aol_v104_NPUP31354"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/aol.png</String></Pair> 
+				<Pair key="title"><String>AOL.on</String></Pair> 
+				<Pair key="info"><String>NPUP31354 - v1.04 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_blockbuster_v103_NPEB02210"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/blockbuster.png</String></Pair> 
+				<Pair key="title"><String>Blockbuster</String></Pair> 
+				<Pair key="info"><String>NPEB02210 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_cbs_v100_NPUP31372"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/cbs.png</String></Pair> 
+				<Pair key="title"><String>CBS News</String></Pair> 
+				<Pair key="info"><String>NPUP31372 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_cinepolis_v102_NPUP31348"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/cinepolis.png</String></Pair> 
+				<Pair key="title"><String>Cinepolis</String></Pair> 
+				<Pair key="info"><String>NPUP31348 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_clantv_v100_NPEB02080"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/clantv.png</String></Pair> 
+				<Pair key="title"><String>ClanTV</String></Pair> 
+				<Pair key="info"><String>NPEB02080 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_crackle_v241_NPUP00077"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crackle.png</String></Pair> 
+				<Pair key="title"><String>Crackle</String></Pair> 
+				<Pair key="info"><String>NPUP00077 - v2.41 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_crackle_v241_NPUP00077_noads"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crackle.png</String></Pair> 
+				<Pair key="title"><String>Crackle</String></Pair> 
+				<Pair key="info"><String>NPUP00077 - v2.41 (NoADS) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_crunchyroll_v125_NPUP10027_noads"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="title"><String>Crunchyroll</String></Pair> 
+				<Pair key="info"><String>NPUP10027 - v1.25 (NoADS) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_crunchyroll_v129_NPEB02307"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="title"><String>Crunchyroll</String></Pair> 
+				<Pair key="info"><String>NPEB02307 - v1.29 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_crunchyroll_v129_NPUP10027"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="title"><String>Crunchyroll</String></Pair> 
+				<Pair key="info"><String>NPUP10027 - v1.29 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_dailyburn_v110_NPUP31344"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/dailyburn.png</String></Pair> 
+				<Pair key="title"><String>DailyBurn</String></Pair> 
+				<Pair key="info"><String>NPUP31344 - v1.10 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_dansk-filmskat_v101_NPEB02344"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/dansk-filmskat.png</String></Pair> 
+				<Pair key="title"><String>Dansk Filmskat</String></Pair> 
+				<Pair key="info"><String>NPEB02344 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_dazn_v101_NPEB02391"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/dazn.png</String></Pair> 
+				<Pair key="title"><String>DAZN</String></Pair> 
+				<Pair key="info"><String>NPEB02391 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_demand5_v104_NPEB00861"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/demand5.png</String></Pair> 
+				<Pair key="title"><String>Demand5</String></Pair> 
+				<Pair key="info"><String>NPEB00861 - v1.04 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_dramafever_v101_NPUP31359"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/dramafever.png</String></Pair> 
+				<Pair key="title"><String>Drama Fever</String></Pair> 
+				<Pair key="info"><String>NPUP31359 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_drtv_v100_NPEB02310"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/drtv.png</String></Pair> 
+				<Pair key="title"><String>DRTV</String></Pair> 
+				<Pair key="info"><String>NPEB02310 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_filmbox_v102_NPEB01920"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/filmbox.png</String></Pair> 
+				<Pair key="title"><String>Filmbox Live</String></Pair> 
+				<Pair key="info"><String>NPEB01920 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_filmin_v101_NPEB02418"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/filmin.png</String></Pair> 
+				<Pair key="title"><String>FilmIn</String></Pair> 
+				<Pair key="info"><String>NPEB02418 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_foxtelplay_v101_NPEB02003"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/foxtelplay.png</String></Pair> 
+				<Pair key="title"><String>Foxtel Play</String></Pair> 
+				<Pair key="info"><String>NPEB02003 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_francetv-sport_v100_NPEB02427"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/francetv-sport.png</String></Pair> 
+				<Pair key="title"><String>FranceTV Sport</String></Pair> 
+				<Pair key="info"><String>NPEB02427 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_funimation_v101_NPEB02410"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/funimation.png</String></Pair> 
+				<Pair key="title"><String>FUNimation</String></Pair> 
+				<Pair key="info"><String>NPEB02410 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_gopro_v101_NPUP31363"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/gopro.png</String></Pair> 
+				<Pair key="title"><String>GoPro Channel</String></Pair> 
+				<Pair key="info"><String>NPUP31363 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_hbonordic_v109_NPEB02292"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonordic.png</String></Pair> 
+				<Pair key="title"><String>HBO Nordic</String></Pair> 
+				<Pair key="info"><String>NPEB02292 - v1.09 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_hbonow_v121_NPUP31369"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonow.png</String></Pair> 
+				<Pair key="title"><String>HBO Now</String></Pair> 
+				<Pair key="info"><String>NPUP31369 - v1.21 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_hulu_v160_NPUP00046"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hulu.png</String></Pair> 
+				<Pair key="title"><String>Hulu</String></Pair> 
+				<Pair key="info"><String>NPUP00046 - v1.60 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_icflix_v100_NPEB02187"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/icflix.png</String></Pair> 
+				<Pair key="title"><String>ICFlix</String></Pair> 
+				<Pair key="info"><String>NPEB02187 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_ign_v101_NPUP31341"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/ign.png</String></Pair> 
+				<Pair key="title"><String>IGN</String></Pair> 
+				<Pair key="info"><String>NPUP31341 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_infinity_v106_NPEB01973"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/infinity.png</String></Pair> 
+				<Pair key="title"><String>Infinity</String></Pair> 
+				<Pair key="info"><String>NPEB01973 - v1.06 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_laughfactory_v103_NPUP00075"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/laughfactory.png</String></Pair> 
+				<Pair key="title"><String>Laugh Factory Live</String></Pair> 
+				<Pair key="info"><String>NPUP00075 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_lightbox_v101_NPEB02213"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/lightbox.png</String></Pair> 
+				<Pair key="title"><String>Lightbox</String></Pair> 
+				<Pair key="info"><String>NPEB02213 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_lev_v201_NPUP10037"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/lev.png</String></Pair> 
+				<Pair key="title"><String>Live Events Viewer</String></Pair> 
+				<Pair key="info"><String>NPUP10037 - v2.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_maxdome_v107_NPEB01192"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/maxdome.png</String></Pair> 
+				<Pair key="title"><String>Maxdome</String></Pair> 
+				<Pair key="info"><String>NPEB01192 - v1.07 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_minbio_v103_NPEB02345"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/minbio.png</String></Pair> 
+				<Pair key="title"><String>MinBio</String></Pair> 
+				<Pair key="info"><String>NPEB02345 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v295_NPUP31353"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP31353 - v2.95 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v295_NPUP31353_noads"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP31353 - v2.95 (NoADS) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v613_NPUP00024"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP00024 - v6.13 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v623_NPHA80252"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPHA80252 - v6.23 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_movistar_v106_NPEB02135"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/movistar.png</String></Pair> 
+				<Pair key="title"><String>Movistar</String></Pair> 
+				<Pair key="info"><String>NPEB02135 - v1.06 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_multiplayerit_v101_NPEB01990"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/multiplayerit.png</String></Pair> 
+				<Pair key="title"><String>Multiplayer it</String></Pair> 
+				<Pair key="info"><String>NPEB01990 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nbagametime_v303_NPHA80272"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nbagametime.png</String></Pair> 
+				<Pair key="title"><String>NBA Game Time</String></Pair> 
+				<Pair key="info"><String>NPHA80272 - v3.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nbagametime_v310_NPUO00030"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nbagametime.png</String></Pair> 
+				<Pair key="title"><String>NBA Game Time</String></Pair> 
+				<Pair key="info"><String>NPUO00030 - v3.10 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_neonalley_v201_NPUP10030"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/neonalley.png</String></Pair> 
+				<Pair key="title"><String>Neon Alley</String></Pair> 
+				<Pair key="info"><String>NPUP10030 - v2.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nhl_v588_NPUP31340"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nhl.png</String></Pair> 
+				<Pair key="title"><String>NHL GameCenter</String></Pair> 
+				<Pair key="info"><String>NPUP31340 - v5.88 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nhl_v588_NPUP31340_noads"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nhl.png</String></Pair> 
+				<Pair key="title"><String>NHL GameCenter</String></Pair> 
+				<Pair key="info"><String>NPUP31340 - v5.88 (NoADS) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nowtv_v104_NPEB01919"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nowtv.png</String></Pair> 
+				<Pair key="title"><String>NowTV</String></Pair> 
+				<Pair key="info"><String>NPEB01919 - v1.04 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nrksuper_v102_NPEB02136"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nrksuper.png</String></Pair> 
+				<Pair key="title"><String>NRK Super</String></Pair> 
+				<Pair key="info"><String>NPEB02136 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_nrktv_v102_NPEB02137"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nrktv.png</String></Pair> 
+				<Pair key="title"><String>NRK TV</String></Pair> 
+				<Pair key="info"><String>NPEB02137 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_pathe-thuis_v100_NPEB01974"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/pathe-thuis.png</String></Pair> 
+				<Pair key="title"><String>Pathe Thuis</String></Pair> 
+				<Pair key="info"><String>NPEB01974 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_playstation-store_v128_NPIA00025"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/playstation-store.png</String></Pair> 
+				<Pair key="title"><String>PlayStation Store</String></Pair> 
+				<Pair key="info"><String>NPIA00025 - v1.28 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_plus7_v101_NPEB02161"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/plus7.png</String></Pair> 
+				<Pair key="title"><String>Plus 7</String></Pair> 
+				<Pair key="info"><String>NPEB02161 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS-Aggressive) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS-NoAnalytics) - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_qello_v104_NPEB02055"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/qello.png</String></Pair> 
+				<Pair key="title"><String>Qello HD Concerts</String></Pair> 
+				<Pair key="info"><String>NPEB02055 - v1.04 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_qello_v110_NPUP10043"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/qello.png</String></Pair> 
+				<Pair key="title"><String>Qello HD Concerts</String></Pair> 
+				<Pair key="info"><String>NPUP10043 - v1.10 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_quickflix_v203_NPEB00864"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/quickflix.png</String></Pair> 
+				<Pair key="title"><String>QuickFlix</String></Pair> 
+				<Pair key="info"><String>NPEB00864 - v2.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_redbull_v108_NPUP31361"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/redbull.png</String></Pair> 
+				<Pair key="title"><String>Redbull TV</String></Pair> 
+				<Pair key="info"><String>NPUP31361 - v1.08 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_sbs_v103_NPEB02050"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/sbs.png</String></Pair> 
+				<Pair key="title"><String>SBS On Demand</String></Pair> 
+				<Pair key="info"><String>NPEB02050 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_screambox_v101_NPUP31362"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/screambox.png</String></Pair> 
+				<Pair key="title"><String>Screambox</String></Pair> 
+				<Pair key="info"><String>NPUP31362 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_sec_v103_NPUP00064"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/sec.png</String></Pair> 
+				<Pair key="title"><String>SEC Digital Network</String></Pair> 
+				<Pair key="info"><String>NPUP00064 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_skai_v100_NPEB01987"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/skai.png</String></Pair> 
+				<Pair key="title"><String>Skai</String></Pair> 
+				<Pair key="info"><String>NPEB01987 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_snagfilms_v102_NPUP31346"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/snagfilms.png</String></Pair> 
+				<Pair key="title"><String>Snag Films</String></Pair> 
+				<Pair key="info"><String>NPUP31346 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_spotify_v122_NPEB02222"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/spotify.png</String></Pair> 
+				<Pair key="title"><String>Spotify</String></Pair> 
+				<Pair key="info"><String>NPEB02222 - v1.22 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_stan_v103_NPEB02362"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/stan.png</String></Pair> 
+				<Pair key="title"><String>Stan</String></Pair> 
+				<Pair key="info"><String>NPEB02362 - v1.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_totalchannel_v102_NPEB01848"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/totalchannel.png</String></Pair> 
+				<Pair key="title"><String>Total Channel</String></Pair> 
+				<Pair key="info"><String>NPEB01848 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_tunein_v101_NPUP10042"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/tunein.png</String></Pair> 
+				<Pair key="title"><String>TuneIn Radio</String></Pair> 
+				<Pair key="info"><String>NPUP10042 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_tv2sumo_v102_NPEB01956"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/tv2sumo.png</String></Pair> 
+				<Pair key="title"><String>TV 2 Sumo</String></Pair> 
+				<Pair key="info"><String>NPEB01956 - v1.02 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_tv3_v101_NPEB02166"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/tv3.png</String></Pair> 
+				<Pair key="title"><String>TV3</String></Pair> 
+				<Pair key="info"><String>NPEB02166 - v1.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPEB02359"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPEB02359 - v1.07 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPHB00730"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPHB00730 - v1.07 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPUP31358"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPUP31358 - v1.07 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_vevo_v100_NPEB02212"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/vevo.png</String></Pair> 
+				<Pair key="title"><String>Vevo</String></Pair> 
+				<Pair key="info"><String>NPEB02212 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_viaplay_v110_NPEB00863"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/viaplay.png</String></Pair> 
+				<Pair key="title"><String>ViaPlay</String></Pair> 
+				<Pair key="info"><String>NPEB00863 - v1.10 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_vudu_v201_NPUP00047"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/vudu.png</String></Pair> 
+				<Pair key="title"><String>VUDU</String></Pair> 
+				<Pair key="info"><String>NPUP00047 - v2.01 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_wuakitv_v108_NPEB01813"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/wuakitv.png</String></Pair> 
+				<Pair key="title"><String>Wuaki TV</String></Pair> 
+				<Pair key="info"><String>NPEB01813 - v1.08 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_wwenetwork_v192_NPEB02117"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/wwenetwork.png</String></Pair> 
+				<Pair key="title"><String>WWE Network</String></Pair> 
+				<Pair key="info"><String>NPEB02117 - v1.92 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_wwenetwork_v192_NPHB00678"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/wwenetwork.png</String></Pair> 
+				<Pair key="title"><String>WWE Network</String></Pair> 
+				<Pair key="info"><String>NPHB00678 - v1.92 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_wwenetwork_v192_NPUP31345"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/wwenetwork.png</String></Pair> 
+				<Pair key="title"><String>WWE Network</String></Pair> 
+				<Pair key="info"><String>NPUP31345 - v1.92 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_yle_v100_NPEB02338"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/yle.png</String></Pair> 
+				<Pair key="title"><String>YLE Areena</String></Pair> 
+				<Pair key="info"><String>NPEB02338 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_yomvi_v100_NPEB02135"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/yomvi.png</String></Pair> 
+				<Pair key="title"><String>Yomvi</String></Pair> 
+				<Pair key="info"><String>NPEB02135 - v1.00 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_youtube_v303_NPEB01229"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="title"><String>Youtube</String></Pair> 
+				<Pair key="info"><String>NPEB01229 - v3.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_youtube_v303_NPJB00286"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="title"><String>Youtube</String></Pair> 
+				<Pair key="info"><String>NPJB00286 - v3.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_youtube_v303_NPUP10028"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="title"><String>Youtube</String></Pair> 
+				<Pair key="info"><String>NPUP10028 - v3.03 - CFW only</String></Pair> 
+			</Table>
+			<Table key="item_yupptv_v102_NPEB02350"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/yupptv.png</String></Pair> 
+				<Pair key="title"><String>YuppTV</String></Pair> 
+				<Pair key="info"><String>NPEB02350 - v1.02 - CFW only</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_abc_v101_NPEB02205" 
+				attr="item_abc_v101_NPEB02205" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_abc_v101_NPEB02205_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_amazon_v406_NPEB00344" 
+				attr="item_amazon_v406_NPEB00344" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_amazon_v406_NPEB00344_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_amazon_v406_NPJB00773" 
+				attr="item_amazon_v406_NPJB00773" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_amazon_v406_NPJB00773_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_amazon_v406_NPUP10021" 
+				attr="item_amazon_v406_NPUP10021" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_amazon_v406_NPUP10021_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_animax_v101_NPEB01355" 
+				attr="item_animax_v101_NPEB01355" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_animax_v101_NPEB01355_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_animelab_v100_NPEB02357" 
+				attr="item_animelab_v100_NPEB02357" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_animelab_v100_NPEB02357_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_aol_v104_NPUP31354" 
+				attr="item_aol_v104_NPUP31354" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_aol_v104_NPUP31354_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_blockbuster_v103_NPEB02210" 
+				attr="item_blockbuster_v103_NPEB02210" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_blockbuster_v103_NPEB02210_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_cbs_v100_NPUP31372" 
+				attr="item_cbs_v100_NPUP31372" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_cbs_v100_NPUP31372_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_cinepolis_v102_NPUP31348" 
+				attr="item_cinepolis_v102_NPUP31348" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_cinepolis_v102_NPUP31348_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_clantv_v100_NPEB02080" 
+				attr="item_clantv_v100_NPEB02080" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_clantv_v100_NPEB02080_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crackle_v241_NPUP00077" 
+				attr="item_crackle_v241_NPUP00077" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crackle_v241_NPUP00077_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crackle_v241_NPUP00077_noads" 
+				attr="item_crackle_v241_NPUP00077_noads" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crackle_v241_NPUP00077_noads_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crunchyroll_v125_NPUP10027_noads" 
+				attr="item_crunchyroll_v125_NPUP10027_noads" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crunchyroll_v125_NPUP10027_noads_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crunchyroll_v129_NPEB02307" 
+				attr="item_crunchyroll_v129_NPEB02307" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crunchyroll_v129_NPEB02307_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crunchyroll_v129_NPUP10027" 
+				attr="item_crunchyroll_v129_NPUP10027" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crunchyroll_v129_NPUP10027_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_dailyburn_v110_NPUP31344" 
+				attr="item_dailyburn_v110_NPUP31344" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_dailyburn_v110_NPUP31344_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_dansk-filmskat_v101_NPEB02344" 
+				attr="item_dansk-filmskat_v101_NPEB02344" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_dansk-filmskat_v101_NPEB02344_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_dazn_v101_NPEB02391" 
+				attr="item_dazn_v101_NPEB02391" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_dazn_v101_NPEB02391_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_demand5_v104_NPEB00861" 
+				attr="item_demand5_v104_NPEB00861" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_demand5_v104_NPEB00861_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_dramafever_v101_NPUP31359" 
+				attr="item_dramafever_v101_NPUP31359" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_dramafever_v101_NPUP31359_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_drtv_v100_NPEB02310" 
+				attr="item_drtv_v100_NPEB02310" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_drtv_v100_NPEB02310_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_filmbox_v102_NPEB01920" 
+				attr="item_filmbox_v102_NPEB01920" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_filmbox_v102_NPEB01920_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_filmin_v101_NPEB02418" 
+				attr="item_filmin_v101_NPEB02418" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_filmin_v101_NPEB02418_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_foxtelplay_v101_NPEB02003" 
+				attr="item_foxtelplay_v101_NPEB02003" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_foxtelplay_v101_NPEB02003_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_francetv-sport_v100_NPEB02427" 
+				attr="item_francetv-sport_v100_NPEB02427" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_francetv-sport_v100_NPEB02427_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_funimation_v101_NPEB02410" 
+				attr="item_funimation_v101_NPEB02410" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_funimation_v101_NPEB02410_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_gopro_v101_NPUP31363" 
+				attr="item_gopro_v101_NPUP31363" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_gopro_v101_NPUP31363_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_hbonordic_v109_NPEB02292" 
+				attr="item_hbonordic_v109_NPEB02292" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_hbonordic_v109_NPEB02292_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_hbonow_v121_NPUP31369" 
+				attr="item_hbonow_v121_NPUP31369" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_hbonow_v121_NPUP31369_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_hulu_v160_NPUP00046" 
+				attr="item_hulu_v160_NPUP00046" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_hulu_v160_NPUP00046_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_icflix_v100_NPEB02187" 
+				attr="item_icflix_v100_NPEB02187" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_icflix_v100_NPEB02187_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_ign_v101_NPUP31341" 
+				attr="item_ign_v101_NPUP31341" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_ign_v101_NPUP31341_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_infinity_v106_NPEB01973" 
+				attr="item_infinity_v106_NPEB01973" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_infinity_v106_NPEB01973_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_laughfactory_v103_NPUP00075" 
+				attr="item_laughfactory_v103_NPUP00075" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_laughfactory_v103_NPUP00075_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_lightbox_v101_NPEB02213" 
+				attr="item_lightbox_v101_NPEB02213" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_lightbox_v101_NPEB02213_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_lev_v201_NPUP10037" 
+				attr="item_lev_v201_NPUP10037" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_lev_v201_NPUP10037_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_maxdome_v107_NPEB01192" 
+				attr="item_maxdome_v107_NPEB01192" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_maxdome_v107_NPEB01192_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_minbio_v103_NPEB02345" 
+				attr="item_minbio_v103_NPEB02345" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_minbio_v103_NPEB02345_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v295_NPUP31353" 
+				attr="item_mlbtv_v295_NPUP31353" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v295_NPUP31353_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v295_NPUP31353_noads" 
+				attr="item_mlbtv_v295_NPUP31353_noads" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v295_NPUP31353_noads_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v613_NPUP00024" 
+				attr="item_mlbtv_v613_NPUP00024" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v613_NPUP00024_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v623_NPHA80252" 
+				attr="item_mlbtv_v623_NPHA80252" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v623_NPHA80252_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_movistar_v106_NPEB02135" 
+				attr="item_movistar_v106_NPEB02135" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_movistar_v106_NPEB02135_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_multiplayerit_v101_NPEB01990" 
+				attr="item_multiplayerit_v101_NPEB01990" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_multiplayerit_v101_NPEB01990_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nbagametime_v303_NPHA80272" 
+				attr="item_nbagametime_v303_NPHA80272" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nbagametime_v303_NPHA80272_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nbagametime_v310_NPUO00030" 
+				attr="item_nbagametime_v310_NPUO00030" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nbagametime_v310_NPUO00030_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_neonalley_v201_NPUP10030" 
+				attr="item_neonalley_v201_NPUP10030" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_neonalley_v201_NPUP10030_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nhl_v588_NPUP31340" 
+				attr="item_nhl_v588_NPUP31340" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nhl_v588_NPUP31340_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nhl_v588_NPUP31340_noads" 
+				attr="item_nhl_v588_NPUP31340_noads" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nhl_v588_NPUP31340_noads_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nowtv_v104_NPEB01919" 
+				attr="item_nowtv_v104_NPEB01919" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nowtv_v104_NPEB01919_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nrksuper_v102_NPEB02136" 
+				attr="item_nrksuper_v102_NPEB02136" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nrksuper_v102_NPEB02136_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nrktv_v102_NPEB02137" 
+				attr="item_nrktv_v102_NPEB02137" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nrktv_v102_NPEB02137_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_pathe-thuis_v100_NPEB01974" 
+				attr="item_pathe-thuis_v100_NPEB01974" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_pathe-thuis_v100_NPEB01974_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_playstation-store_v128_NPIA00025" 
+				attr="item_playstation-store_v128_NPIA00025" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_playstation-store_v128_NPIA00025_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_plus7_v101_NPEB02161" 
+				attr="item_plus7_v101_NPEB02161" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_plus7_v101_NPEB02161_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof" 
+				attr="item_popcornflix_v110_NPUP31351_spoof" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_aggressive_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_qello_v104_NPEB02055" 
+				attr="item_qello_v104_NPEB02055" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_qello_v104_NPEB02055_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_qello_v110_NPUP10043" 
+				attr="item_qello_v110_NPUP10043" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_qello_v110_NPUP10043_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_quickflix_v203_NPEB00864" 
+				attr="item_quickflix_v203_NPEB00864" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_quickflix_v203_NPEB00864_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_redbull_v108_NPUP31361" 
+				attr="item_redbull_v108_NPUP31361" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_redbull_v108_NPUP31361_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_sbs_v103_NPEB02050" 
+				attr="item_sbs_v103_NPEB02050" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_sbs_v103_NPEB02050_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_screambox_v101_NPUP31362" 
+				attr="item_screambox_v101_NPUP31362" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_screambox_v101_NPUP31362_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_sec_v103_NPUP00064" 
+				attr="item_sec_v103_NPUP00064" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_sec_v103_NPUP00064_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_skai_v100_NPEB01987" 
+				attr="item_skai_v100_NPEB01987" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_skai_v100_NPEB01987_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_snagfilms_v102_NPUP31346" 
+				attr="item_snagfilms_v102_NPUP31346" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_snagfilms_v102_NPUP31346_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_spotify_v122_NPEB02222" 
+				attr="item_spotify_v122_NPEB02222" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_spotify_v122_NPEB02222_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_stan_v103_NPEB02362" 
+				attr="item_stan_v103_NPEB02362" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_stan_v103_NPEB02362_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_totalchannel_v102_NPEB01848" 
+				attr="item_totalchannel_v102_NPEB01848" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_totalchannel_v102_NPEB01848_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_tunein_v101_NPUP10042" 
+				attr="item_tunein_v101_NPUP10042" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_tunein_v101_NPUP10042_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_tv2sumo_v102_NPEB01956" 
+				attr="item_tv2sumo_v102_NPEB01956" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_tv2sumo_v102_NPEB01956_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_tv3_v101_NPEB02166" 
+				attr="item_tv3_v101_NPEB02166" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_tv3_v101_NPEB02166_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPEB02359" 
+				attr="item_twitch_v107_NPEB02359" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPEB02359_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPHB00730" 
+				attr="item_twitch_v107_NPHB00730" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPHB00730_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPUP31358" 
+				attr="item_twitch_v107_NPUP31358" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPUP31358_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_vevo_v100_NPEB02212" 
+				attr="item_vevo_v100_NPEB02212" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_vevo_v100_NPEB02212_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_viaplay_v110_NPEB00863" 
+				attr="item_viaplay_v110_NPEB00863" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_viaplay_v110_NPEB00863_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_vudu_v201_NPUP00047" 
+				attr="item_vudu_v201_NPUP00047" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_vudu_v201_NPUP00047_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_wuakitv_v108_NPEB01813" 
+				attr="item_wuakitv_v108_NPEB01813" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_wuakitv_v108_NPEB01813_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_wwenetwork_v192_NPEB02117" 
+				attr="item_wwenetwork_v192_NPEB02117" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_wwenetwork_v192_NPEB02117_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_wwenetwork_v192_NPHB00678" 
+				attr="item_wwenetwork_v192_NPHB00678" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_wwenetwork_v192_NPHB00678_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_wwenetwork_v192_NPUP31345" 
+				attr="item_wwenetwork_v192_NPUP31345" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_wwenetwork_v192_NPUP31345_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_yle_v100_NPEB02338" 
+				attr="item_yle_v100_NPEB02338" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_yle_v100_NPEB02338_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_yomvi_v100_NPEB02135" 
+				attr="item_yomvi_v100_NPEB02135" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_yomvi_v100_NPEB02135_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_youtube_v303_NPEB01229" 
+				attr="item_youtube_v303_NPEB01229" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_youtube_v303_NPEB01229_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_youtube_v303_NPJB00286" 
+				attr="item_youtube_v303_NPJB00286" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_youtube_v303_NPJB00286_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_youtube_v303_NPUP10028" 
+				attr="item_youtube_v303_NPUP10028" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_youtube_v303_NPUP10028_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_yupptv_v102_NPEB02350" 
+				attr="item_yupptv_v102_NPEB02350" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_yupptv_v102_NPEB02350_main" 
+			/>
+		</Items>
+	</View>
+
+</XMBML>

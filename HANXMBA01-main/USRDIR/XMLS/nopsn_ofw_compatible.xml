@@ -1,0 +1,287 @@
+<XMBML version="1.0"> 
+ 
+ <!-- Main > OFW Compatible items [Last update: 2019/01/13] --> 
+ 
+	<View id="nopsn_ofw_compatible_items">
+		<Attributes>
+			<Table key="item_crackle_v241_NPUP00077_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crackle.png</String></Pair> 
+				<Pair key="title"><String>Crackle</String></Pair> 
+				<Pair key="info"><String>NPUP00077 - v2.41 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_crunchyroll_v129_NPEB02307_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="title"><String>Crunchyroll</String></Pair> 
+				<Pair key="info"><String>NPEB02307 - v1.29 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_crunchyroll_v129_NPUP10027_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/crunchyroll.png</String></Pair> 
+				<Pair key="title"><String>Crunchyroll</String></Pair> 
+				<Pair key="info"><String>NPUP10027 - v1.29 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_nfl_v601_NPUO00019_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nfl.png</String></Pair> 
+				<Pair key="title"><String>DirecTV NFL</String></Pair> 
+				<Pair key="info"><String>NPUO00019  - v6.01 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_funimation_v107_NPUP31349_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/funimation.png</String></Pair> 
+				<Pair key="title"><String>FUNimation</String></Pair> 
+				<Pair key="info"><String>NPUP31349 - v1.07 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v295_NPUP31353_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP31353 - v2.95 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v295_NPUP31353_noads_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP31353 - v2.95 (NoADS) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v613_NPUP00024_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPUP00024 - v6.13 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_mlbtv_v623_NPHA80252_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
+				<Pair key="title"><String>MLB tv</String></Pair> 
+				<Pair key="info"><String>NPHA80252 - v6.23 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_nbagametime_v118_NPUP31373_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nbagametime.png</String></Pair> 
+				<Pair key="title"><String>NBA Game Time</String></Pair> 
+				<Pair key="info"><String>NPUP31373  - v1.18 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_netflix_v108_NPJB00766_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/netflix.png</String></Pair> 
+				<Pair key="title"><String>Netflix</String></Pair> 
+				<Pair key="info"><String>NPJB00766  - v1.08 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_netflix_v120_NPEB00874_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/netflix.png</String></Pair> 
+				<Pair key="title"><String>Netflix</String></Pair> 
+				<Pair key="info"><String>NPEB00874  - v1.20 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_netflix_v233_NPUP00030_retail"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/netflix.png</String></Pair> 
+				<Pair key="title"><String>Netflix</String></Pair> 
+				<Pair key="info"><String>NPUP00030  - v2.33 - CFW/OFW (Retail)</String></Pair> 
+			</Table>
+			<Table key="item_nhl_v588_NPUP31340_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nhl.png</String></Pair> 
+				<Pair key="title"><String>NHL GameCenter</String></Pair> 
+				<Pair key="info"><String>NPUP31340 - v5.88 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_nhl_v588_NPUP31340_noads_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/nhl.png</String></Pair> 
+				<Pair key="title"><String>NHL GameCenter</String></Pair> 
+				<Pair key="info"><String>NPUP31340 - v5.88 (NoADS) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_playstation-store_v128_NPIA00025_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/playstation-store.png</String></Pair> 
+				<Pair key="title"><String>PlayStation Store</String></Pair> 
+				<Pair key="info"><String>NPIA00025 - v1.28 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS-Aggressive) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
+				<Pair key="title"><String>Popcornflix</String></Pair> 
+				<Pair key="info"><String>NPUP31351 - v1.10 Spoof (NoADS-NoAnalytics) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPEB02359_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPEB02359 - v1.07 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPHB00730_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPHB00730 - v1.07 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_twitch_v107_NPUP31358_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/twitch.png</String></Pair> 
+				<Pair key="title"><String>Twitch</String></Pair> 
+				<Pair key="info"><String>NPUP31358 - v1.07 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_youtube_v102-v303_NPEB01229_spoof_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="title"><String>Youtube</String></Pair> 
+				<Pair key="info"><String>NPEB01229 - v1.02-v3.03 (Spoof) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_youtube_v112-v303_NPUP10028_spoof_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
+				<Pair key="title"><String>Youtube</String></Pair> 
+				<Pair key="info"><String>NPUP10028 - v1.12-v3.03 (Spoof) - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crackle_v241_NPUP00077_ethanol" 
+				attr="item_crackle_v241_NPUP00077_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crackle_v241_NPUP00077_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crunchyroll_v129_NPEB02307_ethanol" 
+				attr="item_crunchyroll_v129_NPEB02307_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crunchyroll_v129_NPEB02307_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_crunchyroll_v129_NPUP10027_ethanol" 
+				attr="item_crunchyroll_v129_NPUP10027_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_crunchyroll_v129_NPUP10027_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nfl_v601_NPUO00019_retail" 
+				attr="item_nfl_v601_NPUO00019_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nfl_v601_NPUO00019_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_funimation_v107_NPUP31349_retail" 
+				attr="item_funimation_v107_NPUP31349_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_funimation_v107_NPUP31349_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v295_NPUP31353_ethanol" 
+				attr="item_mlbtv_v295_NPUP31353_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v295_NPUP31353_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v295_NPUP31353_noads_ethanol" 
+				attr="item_mlbtv_v295_NPUP31353_noads_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v295_NPUP31353_noads_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v613_NPUP00024_ethanol" 
+				attr="item_mlbtv_v613_NPUP00024_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v613_NPUP00024_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_mlbtv_v623_NPHA80252_ethanol" 
+				attr="item_mlbtv_v623_NPHA80252_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_mlbtv_v623_NPHA80252_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nbagametime_v118_NPUP31373_retail" 
+				attr="item_nbagametime_v118_NPUP31373_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nbagametime_v118_NPUP31373_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_netflix_v108_NPJB00766_retail" 
+				attr="item_netflix_v108_NPJB00766_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_netflix_v108_NPJB00766_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_netflix_v120_NPEB00874_retail" 
+				attr="item_netflix_v120_NPEB00874_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_netflix_v120_NPEB00874_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_netflix_v233_NPUP00030_retail" 
+				attr="item_netflix_v233_NPUP00030_retail" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_netflix_v233_NPUP00030_retail_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nhl_v588_NPUP31340_ethanol" 
+				attr="item_nhl_v588_NPUP31340_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nhl_v588_NPUP31340_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_nhl_v588_NPUP31340_noads_ethanol" 
+				attr="item_nhl_v588_NPUP31340_noads_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_nhl_v588_NPUP31340_noads_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_playstation-store_v128_NPIA00025_ethanol" 
+				attr="item_playstation-store_v128_NPIA00025_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_playstation-store_v128_NPIA00025_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_ethanol" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive_ethanol" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads_aggressive_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_aggressive_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads_ethanol" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics_ethanol" 
+				attr="item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_popcornflix_v110_NPUP31351_spoof_noads_noanalytics_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPEB02359_ethanol" 
+				attr="item_twitch_v107_NPEB02359_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPEB02359_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPHB00730_ethanol" 
+				attr="item_twitch_v107_NPHB00730_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPHB00730_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_twitch_v107_NPUP31358_ethanol" 
+				attr="item_twitch_v107_NPUP31358_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_twitch_v107_NPUP31358_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_youtube_v102-v303_NPEB01229_spoof_ethanol" 
+				attr="item_youtube_v102-v303_NPEB01229_spoof_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_youtube_v102-v303_NPEB01229_spoof_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_youtube_v112-v303_NPUP10028_spoof_ethanol" 
+				attr="item_youtube_v112-v303_NPUP10028_spoof_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_youtube_v112-v303_NPUP10028_spoof_ethanol_main" 
+			/>
+		</Items>
+	</View>
+
+</XMBML>
