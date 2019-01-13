@@ -79,7 +79,7 @@
 		<View id="nopsn_about_main"> 
 		<Attributes>
 			<Table key="nopsn_site">
-				<Pair key="icon"><String></String></Pair>
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/www.png</String></Pair>
 				<Pair key="title"><String>NoPSN.com WebSite</String></Pair>
 				<Pair key="info"><String>NoPSN Repository of Apps!</String></Pair>
 				<Pair key="module_name"><String>webrender_plugin</String></Pair>
@@ -124,10 +124,10 @@
 		<Attributes> 
 			<Table key="nopsn_update_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>https://www.dropbox.com/s/9mtuyhygjpao74a/Latest_NoPSN-Downloader.pkg_signed.pkg?dl=1</String></Pair> 
-				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/9mtuyhygjpao74a/Latest_NoPSN-Downloader.pkg_signed.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/9mtuyhygjpao74a/Latest_NoPSN-Downloader.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/9mtuyhygjpao74a/Latest_NoPSN-Downloader.pkg?dl=1</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
-				<Pair key="content_id"><String>TA9000-HANTOOLBX_00-GLORYOFBRUNESTUD</String></Pair> 
+				<Pair key="content_id"><String>TA9000-HANXMBA01_00-GLORYOFBRUNESTUD</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/update.png</String></Pair> 
 			</Table> 
 		</Attributes> 
