@@ -4,7 +4,7 @@
 
 	<View id="han_xmb_addon1_main"> 
 		<Attributes> 
-			<Table key="nopsn_main">
+			<Table key="ofw_main">
 				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="title"><String>★ NoPSN Downloader</String></Pair>
@@ -15,30 +15,70 @@
 			<Items>
 			<Query 
 				class="type:x-xmb/folder-pixmap"
-				key="nopsn_main"
-				attr="nopsn_main"
-				src="#nopsn_main_items"/>
+				key="ofw_main"
+				attr="ofw_main"
+				src="#ofw_main_items"/>
 			</Items>
 		</View>
 
-<!-- Main -->
+	<View id="xmb_addon1_main"> 
+		<Attributes> 
+			<Table key="cfw_main">
+				<Pair key="icon_rsc"><String>tex_album_icon</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ NoPSN Downloader</String></Pair>
+				<Pair key="info"><String>Collection of Apps Patched For NoPSN Access</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="cfw_main"
+				attr="cfw_main"
+				src="#cfw_main_items"/>
+			</Items>
+		</View>
+
+<!-- OFW Main -->
 		
-		<View id="nopsn_main_items"> 
+		<View id="ofw_main_items"> 
+		<Attributes> 
+			<Table key="nopsn_ofw_compatible">
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/folder.png</String></Pair>
+				<Pair key="title"><String>NoPSN Apps</String></Pair>
+				<Pair key="info"><String>Download and install NoPSN OFW compatible Apps (Retail/HAN Signed Packages)</String></Pair>
+			</Table>
+			<Table key="nopsn_about">
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
+				<Pair key="title"><String>About</String></Pair>
+				<Pair key="info"><String>Update, version, changelog</String></Pair>
+			</Table>
+		</Attributes>		
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_ofw_compatible" 
+				attr="nopsn_ofw_compatible"
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ofw_compatible.xml#nopsn_ofw_compatible_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_about" 
+				attr="nopsn_about"
+				src="#nopsn_about_main"
+				/>
+			</Items>
+		</View>
+
+<!-- CFW Main -->
+		
+		<View id="cfw_main_items"> 
 		<Attributes> 
 			<Table key="nopsn_all">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>All</String></Pair>
-				<Pair key="info"><String>All NoPSN Apps (CFW/OFW)</String></Pair>
-			</Table>
-			<Table key="nopsn_cfw_only">
-				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>CFW Only</String></Pair>
-				<Pair key="info"><String>Download and install NoPSN CFW (only) compatible Apps</String></Pair>
-			</Table>
-			<Table key="nopsn_ofw_compatible">
-				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/folder.png</String></Pair>
-				<Pair key="title"><String>OFW Compatible</String></Pair>
-				<Pair key="info"><String>Download and install NoPSN OFW compatible Apps (Retail/HAN Signed Packages)</String></Pair>
+				<Pair key="title"><String>NoPSN Apps</String></Pair>
+				<Pair key="info"><String>Download and install NoPSN Apps</String></Pair>
 			</Table>
 			<Table key="nopsn_about">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
@@ -55,26 +95,14 @@
 				/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_cfw_only" 
-				attr="nopsn_cfw_only"
-				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_cfw_only.xml#nopsn_cfw_only_items"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
-				key="nopsn_ofw_compatible" 
-				attr="nopsn_ofw_compatible"
-				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ofw_compatible.xml#nopsn_ofw_compatible_items"
-				/>
-			<Query 
-				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_about" 
 				attr="nopsn_about"
 				src="#nopsn_about_main"
 				/>
 			</Items>
-		</View>		
+		</View>			
 
-<!-- Main > About -->
+<!-- OFW/CFW Main > About -->
 
 		<View id="nopsn_about_main"> 
 		<Attributes>
@@ -118,7 +146,7 @@
 		</View>		
 
 
-<!-- Main > About > Update NoPSN Downloader -->
+<!-- OFW/CFW Main > About > Update NoPSN Downloader -->
 
 	<View id="nopsn_update_main"> 
 		<Attributes> 
@@ -136,7 +164,7 @@
 		</Items> 
 	</View> 
 		
-<!-- Main > About > Changelog -->
+<!-- OFW/CFW Main > About > Changelog -->
 			
 		<View id="nopsn_changelog"> 
 		<Attributes>
