@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- NoPSN Downloader v0.1 -->
+<!-- NoPSN Downloader v0.15 (here) -->
 
 	<View id="han_xmb_addon1_main"> 
 		<Attributes> 
@@ -66,7 +66,7 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_about" 
 				attr="nopsn_about"
-				src="#nopsn_about_main"
+				src="#ofw_nopsn_about_main"
 				/>
 			</Items>
 		</View>
@@ -97,14 +97,14 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_about" 
 				attr="nopsn_about"
-				src="#nopsn_about_main"
+				src="#cfw_nopsn_about_main"
 				/>
 			</Items>
 		</View>			
 
-<!-- OFW/CFW Main > About -->
+<!-- OFW Main > About (here) -->
 
-		<View id="nopsn_about_main"> 
+		<View id="ofw_nopsn_about_main"> 
 		<Attributes>
 			<Table key="nopsn_site">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/www.png</String></Pair>
@@ -114,13 +114,13 @@
 				<Pair key="module_action"><String>http://nopsn.com/pkg/ps3/</String></Pair>
 			</Table>
 			<Table key="nopsn_update">
-				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/NoPSN-Downloader/master/update_status/v0.1.png</String></Pair>
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/NoPSN-Downloader/master/update_status/v0.15.png</String></Pair>
 				<Pair key="title"><String>Update NoPSN Downloader</String></Pair>
 				<Pair key="info"><String>Download and install the latest NoPSN Downloader and refresh XMB (exit user session)</String></Pair>
 			</Table>
 			<Table key="nopsn_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
-				<Pair key="title"><String>Version: 0.1 (2019/01/13)</String></Pair>
+				<Pair key="title"><String>Version: 0.15 (2019/01/19)</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
 			</Table>			
 		</Attributes>		
@@ -140,10 +140,53 @@
 				class="type:x-xmb/folder-pixmap" 
 				key="nopsn_version" 
 				attr="nopsn_version"
-				src="#nopsn_changelog"
+				src="#ofw_nopsn_changelog"
 				/>
 			</Items>
-		</View>		
+		</View>
+
+<!-- CFW Main > About (here) -->
+
+		<View id="cfw_nopsn_about_main"> 
+		<Attributes>
+			<Table key="nopsn_site">
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/www.png</String></Pair>
+				<Pair key="title"><String>NoPSN.com WebSite</String></Pair>
+				<Pair key="info"><String>NoPSN Repository of Apps!</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://nopsn.com/pkg/ps3/</String></Pair>
+			</Table>
+			<Table key="nopsn_update">
+				<Pair key="icon"><String>http://raw.githubusercontent.com/ShaolinAssassin/NoPSN-Downloader/master/update_status/v0.15.png</String></Pair>
+				<Pair key="title"><String>Update NoPSN Downloader</String></Pair>
+				<Pair key="info"><String>Download and install the latest NoPSN Downloader and refresh XMB (exit user session)</String></Pair>
+			</Table>
+			<Table key="nopsn_version">
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
+				<Pair key="title"><String>Version: 0.15 (2019/01/19)</String></Pair>
+				<Pair key="info"><String>Press  to access changelog</String></Pair>
+			</Table>			
+		</Attributes>		
+			<Items>		
+			<Query 
+				class="type:x-xmb/module-action"
+				key="nopsn_site"
+				attr="nopsn_site"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="nopsn_update"
+				attr="nopsn_update"
+				src="#nopsn_update_main"
+				/> 
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_version" 
+				attr="nopsn_version"
+				src="#cfw_nopsn_changelog"
+				/>
+			</Items>
+		</View>			
 
 
 <!-- OFW/CFW Main > About > Update NoPSN Downloader -->
@@ -164,18 +207,52 @@
 		</Items> 
 	</View> 
 		
-<!-- OFW/CFW Main > About > Changelog -->
+<!-- OFW Main > About > Changelog (here) -->
 			
-		<View id="nopsn_changelog"> 
+		<View id="ofw_nopsn_changelog"> 
 		<Attributes>
 			<Table key="nopsn_last_changes">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/logo.png</String></Pair>
 				<Pair key="title"><String>Changelog:</String></Pair>
 				<Pair key="info"><String>
 				
+				・ v0.15 (2019/01/19):
+				-FUNimation [NPUP31349] v1.07 updated (1080-720-480-Fix)
+				-HBO Go [NPUP10033] v4.40 added 
+				-HBO Nordic [NPEB02292] updated to v1.11 Spoof
+				-HBO Now [NPUP31369] updated to v4.40				
+				
 				・ v0.1 (2019/01/13): Initial release (116 download links)
 				
-				Credits : esc0rtd3w (NoPSN Apps hacks, NoPSN.com website), ShaolinAssassin (XMB Add-on)
+				Credits : esc0rtd3w (NoPSN Apps hacks, NoPSN.com website), ShaolinAssassin (XMB Add-on PKG)
+				</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action" 
+				key="nopsn_last_changes" 
+				attr="nopsn_last_changes"
+				/>
+			</Items>
+		</View>	
+
+<!-- CFW Main > About > Changelog (here) -->
+			
+		<View id="cfw_nopsn_changelog"> 
+		<Attributes>
+			<Table key="nopsn_last_changes">
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/logo.png</String></Pair>
+				<Pair key="title"><String>Changelog:</String></Pair>
+				<Pair key="info"><String>
+				
+				・ v0.15 (2019/01/19):
+				-HBO Go [NPUP10033] v4.40 added
+				-HBO Now [NPUP31369] v4.40 added 
+				
+				・ v0.1 (2019/01/13): Initial release (116 download links)
+				
+				Credits : esc0rtd3w (NoPSN Apps hacks, NoPSN.com website), ShaolinAssassin (XMB Add-on PKG)
 				</String></Pair>
 			</Table>
 		</Attributes>

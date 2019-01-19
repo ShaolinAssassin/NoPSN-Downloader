@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
-<!-- Main > ... > Download links [Last update: 2019/01/13] -->
+<!-- OFW/CFW Main > OFW/CFW Items > ALL Download links [Last update: 2019/01/19] --> 
 
 	<View id="item_abc_v101_NPEB02205_main"> 
 		<Attributes> 
@@ -498,19 +498,19 @@
 		</Items> 
 	</View> 
 
-	<View id="item_funimation_v107_NPUP31349_retail_main"> 
+	<View id="item_funimation_v107_NPUP31349_retail_fixed_main"> 
 		<Attributes> 
-			<Table key="item_funimation_v107_NPUP31349_retail_link"> 
+			<Table key="item_funimation_v107_NPUP31349_retail_fixed_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349].pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349].pkg</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349]-1080-720-480-Fix.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/funimation/FUNimation-v1.07-[NPUP31349]-1080-720-480-Fix.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>US0026-NPUP31349_00-FUNIMATION123456</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/funimation.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_funimation_v107_NPUP31349_retail_link" attr="item_funimation_v107_NPUP31349_retail_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_funimation_v107_NPUP31349_retail_fixed_link" attr="item_funimation_v107_NPUP31349_retail_fixed_link"/> 
 		</Items> 
 	</View> 
 
@@ -530,35 +530,83 @@
 		</Items> 
 	</View> 
 
-	<View id="item_hbonordic_v109_NPEB02292_main"> 
+	<View id="item_hbogo_v440_NPUP10033_main"> 
 		<Attributes> 
-			<Table key="item_hbonordic_v109_NPEB02292_link"> 
+			<Table key="item_hbogo_v440_NPUP10033_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbonordic/HBO-Nordic-v1.09-[NPEB02292]-NoPSN.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbonordic/HBO-Nordic-v1.09-[NPEB02292]-NoPSN.pkg</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbogo/HBO-Go-v4.40-[NPUP10033]-NoPSN.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbogo/HBO-Go-v4.40-[NPUP10033]-NoPSN.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP2084-NPUP10033_00-0000000BUILD1166</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbogo.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_hbogo_v440_NPUP10033_link" attr="item_hbogo_v440_NPUP10033_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_hbogo_v440_NPUP10033_ethanol_main"> 
+		<Attributes> 
+			<Table key="item_hbogo_v440_NPUP10033_ethanol_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbogo/HBO-Go-v4.40-[NPUP10033]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbogo/HBO-Go-v4.40-[NPUP10033]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP2084-NPUP10033_00-0000000BUILD1166</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbogo.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_hbogo_v440_NPUP10033_ethanol_link" attr="item_hbogo_v440_NPUP10033_ethanol_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_hbonordic_v111_NPEB02292_spoof_main"> 
+		<Attributes> 
+			<Table key="item_hbonordic_v111_NPEB02292_spoof_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbonordic/HBO-Nordic-v1.11-Spoof-[NPEB02292]-NoPSN.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbonordic/HBO-Nordic-v1.11-Spoof-[NPEB02292]-NoPSN.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>EP8806-NPEB02292_00-WEBMAF0HBONORDIC</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonordic.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_hbonordic_v109_NPEB02292_link" attr="item_hbonordic_v109_NPEB02292_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_hbonordic_v111_NPEB02292_spoof_link" attr="item_hbonordic_v111_NPEB02292_spoof_link"/> 
 		</Items> 
 	</View> 
 
-	<View id="item_hbonow_v121_NPUP31369_main"> 
+	<View id="item_hbonow_v440_NPUP31369_main"> 
 		<Attributes> 
-			<Table key="item_hbonow_v121_NPUP31369_link"> 
+			<Table key="item_hbonow_v440_NPUP31369_link"> 
 				<Pair key="info"><String>net_package_install</String></Pair> 
-				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v1.21-[NPUP31369]-NoPSN.pkg</String></Pair> 
-				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v1.21-[NPUP31369]-NoPSN.pkg</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v4.40-[NPUP31369]-NoPSN.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v4.40-[NPUP31369]-NoPSN.pkg</String></Pair> 
 				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
 				<Pair key="content_id"><String>UP2084-NPUP31369_00-HBONOWPS30000000</String></Pair> 
 				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonow.png</String></Pair> 
 			</Table> 
 		</Attributes> 
 		<Items> 
-			<Item class="type:x-xmb/xmlnpsignup" key="item_hbonow_v121_NPUP31369_link" attr="item_hbonow_v121_NPUP31369_link"/> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_hbonow_v440_NPUP31369_link" attr="item_hbonow_v440_NPUP31369_link"/> 
+		</Items> 
+	</View> 
+
+	<View id="item_hbonow_v440_NPUP31369_ethanol_main"> 
+		<Attributes> 
+			<Table key="item_hbonow_v440_NPUP31369_ethanol_link"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v4.40-[NPUP31369]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://nopsn.com/pkg/ps3/hbonow/HBO-Now-v4.40-[NPUP31369]-NoPSN-etHANol.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP2084-NPUP31369_00-HBONOWPS30000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonow.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="item_hbonow_v440_NPUP31369_ethanol_link" attr="item_hbonow_v440_NPUP31369_ethanol_link"/> 
 		</Items> 
 	</View> 
 

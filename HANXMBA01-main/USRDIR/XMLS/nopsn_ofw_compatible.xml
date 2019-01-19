@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
- <!-- Main > OFW Compatible items [Last update: 2019/01/13] --> 
+<!-- OFW Main > OFW Items [Last update: 2019/01/19] --> 
  
 	<View id="nopsn_ofw_compatible_items">
 		<Attributes>
@@ -24,10 +24,20 @@
 				<Pair key="title"><String>DirecTV NFL</String></Pair> 
 				<Pair key="info"><String>NPUO00019  - v6.01 - CFW/OFW (Retail)</String></Pair> 
 			</Table>
-			<Table key="item_funimation_v107_NPUP31349_retail"> 
+			<Table key="item_funimation_v107_NPUP31349_retail_fixed"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/funimation.png</String></Pair> 
 				<Pair key="title"><String>FUNimation</String></Pair> 
-				<Pair key="info"><String>NPUP31349 - v1.07 - CFW/OFW (Retail)</String></Pair> 
+				<Pair key="info"><String>NPUP31349 - v1.07 - CFW/OFW (Retail 1080-720-480-Fix)</String></Pair> 
+			</Table>
+			<Table key="item_hbogo_v440_NPUP10033_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbogo.png</String></Pair> 
+				<Pair key="title"><String>HBO GO</String></Pair> 
+				<Pair key="info"><String>NPUP10033 - v4.40 - CFW/OFW (HAN Signed Package)</String></Pair> 
+			</Table>
+			<Table key="item_hbonow_v440_NPUP31369_ethanol"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonow.png</String></Pair> 
+				<Pair key="title"><String>HBO Now</String></Pair> 
+				<Pair key="info"><String>NPUP31369 - v4.40 - CFW/OFW (HAN Signed Package)</String></Pair> 
 			</Table>
 			<Table key="item_mlbtv_v295_NPUP31353_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
@@ -157,9 +167,21 @@
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
-				key="item_funimation_v107_NPUP31349_retail" 
-				attr="item_funimation_v107_NPUP31349_retail" 
-				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_funimation_v107_NPUP31349_retail_main" 
+				key="item_funimation_v107_NPUP31349_retail_fixed" 
+				attr="item_funimation_v107_NPUP31349_retail_fixed" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_funimation_v107_NPUP31349_retail_fixed_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_hbogo_v440_NPUP10033_ethanol" 
+				attr="item_hbogo_v440_NPUP10033_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_hbogo_v440_NPUP10033_ethanol_main" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_hbonow_v440_NPUP31369_ethanol" 
+				attr="item_hbonow_v440_NPUP31369_ethanol" 
+				src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/XMLS/nopsn_ALL_download_links.xml#item_hbonow_v440_NPUP31369_ethanol_main" 
 			/>
 			<Query 
 				class="type:x-xmb/folder-pixmap" 
