@@ -120,7 +120,7 @@
 			</Table>
 			<Table key="nopsn_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
-				<Pair key="title"><String>Version: 0.15 (2019/01/19)</String></Pair>
+				<Pair key="title"><String>Version: 0.15 (2019/01/28)</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
 			</Table>			
 		</Attributes>		
@@ -163,7 +163,7 @@
 			</Table>
 			<Table key="nopsn_version">
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/about.png</String></Pair>
-				<Pair key="title"><String>Version: 0.15 (2019/01/19)</String></Pair>
+				<Pair key="title"><String>Version: 0.15 (2019/01/28)</String></Pair>
 				<Pair key="info"><String>Press  to access changelog</String></Pair>
 			</Table>			
 		</Attributes>		
@@ -216,7 +216,7 @@
 				<Pair key="title"><String>Changelog:</String></Pair>
 				<Pair key="info"><String>
 				
-				・ v0.15 (2019/01/19):
+				・ v0.15 (2019/01/28):
 				-FUNimation [NPUP31349] v1.07 updated (1080-720-480-Fix)
 				-HBO Go [NPUP10033] v4.40 added 
 				-HBO Nordic [NPEB02292] updated to v1.11 Spoof
@@ -246,7 +246,7 @@
 				<Pair key="title"><String>Changelog:</String></Pair>
 				<Pair key="info"><String>
 				
-				・ v0.15 (2019/01/19):
+				・ v0.15 (2019/01/28):
 				-HBO Go [NPUP10033] v4.40 added
 				-HBO Now [NPUP31369] v4.40 added 
 				

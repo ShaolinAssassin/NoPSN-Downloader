@@ -1,6 +1,6 @@
 <XMBML version="1.0"> 
  
-<!-- OFW Main > OFW Items [Last update: 2019/01/19] --> 
+<!-- OFW/CFW Main > OFW/CFW Items [Last update: 2019/01/28] --> 
  
 	<View id="nopsn_ofw_compatible_items">
 		<Attributes>
@@ -32,12 +32,12 @@
 			<Table key="item_hbogo_v440_NPUP10033_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbogo.png</String></Pair> 
 				<Pair key="title"><String>HBO GO</String></Pair> 
-				<Pair key="info"><String>NPUP10033 - v4.40 - CFW/OFW (HAN Signed Package)</String></Pair> 
+				<Pair key="info"><String>NPUP10033 - v4.40 - CFW/OFW (HAN Signed Package) - DISCONTINUED APP</String></Pair> 
 			</Table>
 			<Table key="item_hbonow_v440_NPUP31369_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/hbonow.png</String></Pair> 
 				<Pair key="title"><String>HBO Now</String></Pair> 
-				<Pair key="info"><String>NPUP31369 - v4.40 - CFW/OFW (HAN Signed Package)</String></Pair> 
+				<Pair key="info"><String>NPUP31369 - v4.40 - CFW/OFW (HAN Signed Package) - DISCONTINUED APP</String></Pair> 
 			</Table>
 			<Table key="item_mlbtv_v295_NPUP31353_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/mlbtv.png</String></Pair> 
@@ -92,7 +92,7 @@
 			<Table key="item_playstation-store_v128_NPIA00025_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/playstation-store.png</String></Pair> 
 				<Pair key="title"><String>PlayStation Store</String></Pair> 
-				<Pair key="info"><String>NPIA00025 - v1.28 - CFW/OFW (HAN Signed Package)</String></Pair> 
+				<Pair key="info"><String>NPIA00025 - v1.28 - CFW/OFW (HAN Signed Package) - Forced Guest Mode</String></Pair> 
 			</Table>
 			<Table key="item_popcornflix_v110_NPUP31351_spoof_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/popcornflix.png</String></Pair> 
@@ -137,7 +137,7 @@
 			<Table key="item_youtube_v112-v303_NPUP10028_spoof_ethanol"> 
 				<Pair key="icon"><String>/dev_hdd0/game/HANXMBA01/USRDIR/IMAGES/youtube.png</String></Pair> 
 				<Pair key="title"><String>Youtube</String></Pair> 
-				<Pair key="info"><String>NPUP10028 - v1.12-v3.03 (Spoof) - CFW/OFW (HAN Signed Package)</String></Pair> 
+				<Pair key="info"><String>NPUP10028 - v1.12-v3.03 (Spoof) - CFW/OFW (HAN Signed Package) - Press  To Bypass</String></Pair> 
 			</Table>
 		</Attributes>
 		<Items>

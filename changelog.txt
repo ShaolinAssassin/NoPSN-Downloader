@@ -1,4 +1,4 @@
-* v0.15 (2019/01/19):
+* v0.15 (2019/01/28):
 CFW items:
 -FUNimation [NPUP31349] v1.07 updated (1080-720-480-Fix)
 -HBO Go [NPUP10033] v4.40 added 
@@ -21,7 +21,7 @@ OFW/CFW compatible:
 			<Query
 				 class="type:x-xmb/folder-pixmap"
 				 key="han_xmb_addon1"
-				 src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/han_xmb_addon1.xml#han_xmb_addon1_main"
+				 src="xmb://localhost/dev_hdd0/game/HANXMBA01/USRDIR/han_xmb_addon1.xml#xmb_addon1_main"
 				 />
 				 
 then you can install the PKG. 
