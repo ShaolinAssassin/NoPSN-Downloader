@@ -1,3 +1,13 @@
+* v0.20 (2019/02/27):
+CFW items : 
+-Movistar [NPEB02135] updated to v1.07 - DISCONTINUED APP
+-NowTV [NPEB01919] updated to v1.05 - DISCONTINUED APP
+-Plus 7 [NPEB02161] updated to v1.02 - DISCONTINUED APP
+-Presto [NPEB02372] v1.01 added - DISCONTINUED APP
+-QuickFlix [NPEB00864] updated to v2.04 - DISCONTINUED APP
+-TVigle [NPEB01908] v1.01 added - DISCONTINUED APP
+OFW items: no changes
+
 * v0.15 (2019/01/28):
 CFW items:
 -FUNimation [NPUP31349] v1.07 updated (1080-720-480-Fix)
@@ -26,4 +36,4 @@ OFW/CFW compatible:
 				 
 then you can install the PKG. 
 
-116 download links included ATM (basically, it's this list aat date (2019/01/13): http://www.psx-place.com/threads/collection-of-apps-patched-for-nopsn-access-quick-download-list.14565/).
+116 download links included ATM (basically, it's this list at date (2019/01/13): http://www.psx-place.com/threads/collection-of-apps-patched-for-nopsn-access-quick-download-list.14565/).
